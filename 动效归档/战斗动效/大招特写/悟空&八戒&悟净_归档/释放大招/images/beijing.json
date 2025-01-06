@@ -1,0 +1,15 @@
+{"bones":[{"name":"root"}],"slots":[
+{"name":"beijing","bone":"root","attachment":"beijing"},
+{"name":"Qian_fu_huang","bone":"root","attachment":"Qian_fu_huang"},
+{"name":"Qian_fu_bai","bone":"root","attachment":"Qian_fu_bai"},
+{"name":"Qian_zhu_huang","bone":"root","attachment":"Qian_zhu_huang"},
+{"name":"Qian_zhu_bai","bone":"root","attachment":"Qian_zhu_bai"},
+{"name":"Qian_Baixiao","bone":"root","attachment":"Qian_Baixiao"},
+],"skins":{"default":{
+"beijing":{"beijing":{"x":540,"y":960,"width":1080,"height":1920}},
+"Qian_fu_huang":{"Qian_fu_huang":{"x":543.5,"y":962.5,"width":939,"height":1787}},
+"Qian_fu_bai":{"Qian_fu_bai":{"x":539.5,"y":893.5,"width":939,"height":1787}},
+"Qian_zhu_huang":{"Qian_zhu_huang":{"x":450,"y":1014,"width":860,"height":1710}},
+"Qian_zhu_bai":{"Qian_zhu_bai":{"x":540,"y":855,"width":860,"height":1710}},
+"Qian_Baixiao":{"Qian_Baixiao":{"x":546,"y":971.5,"width":886,"height":1763}},
+}}, "animations": { "animation": {} }}

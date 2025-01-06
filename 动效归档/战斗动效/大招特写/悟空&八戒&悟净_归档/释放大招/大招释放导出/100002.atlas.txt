@@ -1,0 +1,62 @@
+
+100002.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 0, 565
+  size: 782, 1200
+  orig: 1414, 1200
+  offset: 267, 0
+  index: -1
+Qian_Baixiao
+  rotate: false
+  xy: 601, 166
+  size: 177, 353
+  orig: 177, 353
+  offset: 0, 0
+  index: -1
+Qian_fu_huang
+  rotate: true
+  xy: 292, 220
+  size: 188, 357
+  orig: 188, 357
+  offset: 0, 0
+  index: -1
+Qian_zhu_huang
+  rotate: true
+  xy: 0, 219
+  size: 344, 684
+  orig: 344, 684
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 0, 1284
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+guangxiaoB
+  rotate: true
+  xy: 0, 1
+  size: 216, 290
+  orig: 216, 290
+  offset: 0, 0
+  index: -1
+huangA
+  rotate: false
+  xy: 0, 1368
+  size: 33, 397
+  orig: 33, 397
+  offset: 0, 0
+  index: -1
+seka2
+  rotate: false
+  xy: 0, 1241
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

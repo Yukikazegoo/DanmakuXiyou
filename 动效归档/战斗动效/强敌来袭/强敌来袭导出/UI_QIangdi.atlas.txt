@@ -1,0 +1,83 @@
+
+UI_QIangdi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hongdi
+  rotate: false
+  xy: 0, 1785
+  size: 1079, 242
+  orig: 1079, 242
+  offset: 0, 0
+  index: -1
+Touxiang
+  rotate: false
+  xy: 704, 1591
+  size: 255, 192
+  orig: 255, 192
+  offset: 0, 0
+  index: -1
+Wen_Di
+  rotate: false
+  xy: 1082, 1647
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+Wen_Lai
+  rotate: false
+  xy: 1204, 1649
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+Wen_Qiang
+  rotate: false
+  xy: 1320, 1652
+  size: 113, 103
+  orig: 113, 103
+  offset: 0, 0
+  index: -1
+Wen_Tan
+  rotate: false
+  xy: 0, 1599
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+Wen_Xi
+  rotate: false
+  xy: 961, 1646
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+biankuang
+  rotate: false
+  xy: 1081, 1757
+  size: 702, 107
+  orig: 702, 107
+  offset: 0, 0
+  index: -1
+juxing
+  rotate: false
+  xy: 1785, 1785
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+liuguang
+  rotate: false
+  xy: 0, 1687
+  size: 702, 96
+  orig: 702, 96
+  offset: 0, 0
+  index: -1
+wen_diD
+  rotate: false
+  xy: 1081, 1866
+  size: 567, 161
+  orig: 567, 161
+  offset: 0, 0
+  index: -1

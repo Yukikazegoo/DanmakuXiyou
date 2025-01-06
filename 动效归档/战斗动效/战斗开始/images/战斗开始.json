@@ -1,0 +1,15 @@
+{"bones":[{"name":"root"}],"slots":[
+{"name":"beijing","bone":"root","attachment":"beijing"},
+{"name":"Dingwei","bone":"root","attachment":"Dingwei"},
+{"name":"Wen_Shi","bone":"root","attachment":"Wen_Shi"},
+{"name":"Wen_Kai","bone":"root","attachment":"Wen_Kai"},
+{"name":"Wen_Dou","bone":"root","attachment":"Wen_Dou"},
+{"name":"Wen_Zhan","bone":"root","attachment":"Wen_Zhan"},
+],"skins":{"default":{
+"beijing":{"beijing":{"x":540,"y":960,"width":1080,"height":1920}},
+"Dingwei":{"Dingwei":{"x":560,"y":1468,"width":390,"height":114}},
+"Wen_Shi":{"Wen_Shi":{"x":697,"y":1467.5,"width":116,"height":113}},
+"Wen_Kai":{"Wen_Kai":{"x":606.5,"y":1464,"width":117,"height":108}},
+"Wen_Dou":{"Wen_Dou":{"x":513,"y":1466.5,"width":108,"height":111}},
+"Wen_Zhan":{"Wen_Zhan":{"x":422.5,"y":1467,"width":115,"height":112}},
+}}, "animations": { "animation": {} }}

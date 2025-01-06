@@ -1,0 +1,34 @@
+
+UI_ZhandouKaishi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wen_Dou
+  rotate: false
+  xy: 354, 351
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+Wen_Kai
+  rotate: false
+  xy: 235, 354
+  size: 117, 108
+  orig: 117, 108
+  offset: 0, 0
+  index: -1
+Wen_Shi
+  rotate: false
+  xy: 0, 349
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+Wen_Zhan
+  rotate: false
+  xy: 118, 350
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
