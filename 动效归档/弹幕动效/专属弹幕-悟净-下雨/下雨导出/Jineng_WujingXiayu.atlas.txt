@@ -1,0 +1,20 @@
+
+Jineng_WujingXiayu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianA
+  rotate: false
+  xy: 235, 110
+  size: 9, 135
+  orig: 9, 135
+  offset: 0, 0
+  index: -1
+wen
+  rotate: false
+  xy: 0, 106
+  size: 234, 141
+  orig: 244, 172
+  offset: 9, 24
+  index: -1

@@ -1,0 +1,48 @@
+
+Jineng_Buffjiansu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FengxiaoA
+  rotate: 180
+  xy: 299, 66
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+FengxiaoB
+  rotate: 180
+  xy: 243, 81
+  size: 105, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+fengdaA
+  rotate: true
+  xy: 292, 145
+  size: 240, 85
+  orig: 240, 85
+  offset: 0, 0
+  index: -1
+fengdaC
+  rotate: false
+  xy: 0, 79
+  size: 174, 40
+  orig: 174, 40
+  offset: 0, 0
+  index: -1
+xiahuaA
+  rotate: false
+  xy: 0, 121
+  size: 268, 84
+  orig: 270, 86
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 0, 207
+  size: 290, 178
+  orig: 292, 180
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+Jineng_Bailong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long
+  rotate: false
+  xy: 0, 161
+  size: 168, 176
+  orig: 168, 176
+  offset: 0, 0
+  index: -1
+long2
+  rotate: false
+  xy: 170, 161
+  size: 167, 176
+  orig: 167, 176
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+Jineng_Wujing_YueD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 0, 312
+  size: 343, 173
+  orig: 343, 173
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 0, 155
+  size: 351, 155
+  orig: 715, 155
+  offset: 184, 0
+  index: -1
+waiguang
+  rotate: false
+  xy: 0, 487
+  size: 354, 180
+  orig: 354, 180
+  offset: 0, 0
+  index: -1
+waiwen
+  rotate: 180
+  xy: 0, 2
+  size: 345, 152
+  orig: 349, 152
+  offset: 4, 0
+  index: -1
+wen
+  rotate: false
+  xy: 0, 669
+  size: 335, 205
+  orig: 335, 205
+  offset: 0, 0
+  index: -1

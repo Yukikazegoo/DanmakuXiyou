@@ -1,0 +1,20 @@
+
+Jineng_BajieHudun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 0, 242
+  size: 318, 383
+  orig: 700, 700
+  offset: 193, 101
+  index: -1
+b
+  rotate: 180
+  xy: 305, 242
+  size: 318, 383
+  orig: 700, 700
+  offset: 193, 101
+  index: -1
