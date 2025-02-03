@@ -1,0 +1,11 @@
+{"bones":[{"name":"root"}],"slots":[
+{"name":"Z_Benti","bone":"root","attachment":"Z_Benti"},
+{"name":"Z_Wugan","bone":"root","attachment":"Z_Wugan"},
+{"name":"CY_Benti","bone":"root","attachment":"CY_Benti"},
+{"name":"CY_Wugan","bone":"root","attachment":"CY_Wugan"},
+],"skins":{"default":{
+"Z_Benti":{"Z_Benti":{"x":400.5,"y":184.5,"width":219,"height":171}},
+"Z_Wugan":{"Z_Wugan":{"x":400.5,"y":169,"width":155,"height":22}},
+"CY_Benti":{"CY_Benti":{"x":659.5,"y":179.5,"width":217,"height":169}},
+"CY_Wugan":{"CY_Wugan":{"x":691.5,"y":157.5,"width":113,"height":25}},
+}}, "animations": { "animation": {} }}

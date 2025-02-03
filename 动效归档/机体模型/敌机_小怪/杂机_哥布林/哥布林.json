@@ -1,0 +1,192 @@
+{ "skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "CZ_ZuotuiX", "bone": "root", "attachment": "CZ_ZuotuiX" },
+	{ "name": "CZ_ZuotuiS", "bone": "root", "attachment": "CZ_ZuotuiS" },
+	{ "name": "CZ_YoutuiX", "bone": "root", "attachment": "CZ_YoutuiX" },
+	{ "name": "CZ_YoutuiS", "bone": "root", "attachment": "CZ_YoutuiS" },
+	{ "name": "CZ_BU", "bone": "root", "attachment": "CZ_BU" },
+	{ "name": "CZ_YouShouS", "bone": "root", "attachment": "CZ_YouShouS" },
+	{ "name": "CZ_ZuoShouS", "bone": "root", "attachment": "CZ_ZuoShouS" },
+	{ "name": "CZ_shenzi", "bone": "root", "attachment": "CZ_shenzi" },
+	{ "name": "CZ_Bao", "bone": "root", "attachment": "CZ_Bao" },
+	{ "name": "CZ_ZuoshouX", "bone": "root", "attachment": "CZ_ZuoshouX" },
+	{ "name": "CZ_Wuqi", "bone": "root", "attachment": "CZ_Wuqi" },
+	{ "name": "CZ_YoushouX", "bone": "root", "attachment": "CZ_YoushouX" },
+	{ "name": "CZ_Erh", "bone": "root", "attachment": "CZ_Erh" },
+	{ "name": "CZ_Tou", "bone": "root", "attachment": "CZ_Tou" },
+	{ "name": "CZ_Erq", "bone": "root", "attachment": "CZ_Erq" },
+	{ "name": "CY_YoutuiX", "bone": "root", "attachment": "CY_YoutuiX" },
+	{ "name": "CY_YoutuiS", "bone": "root", "attachment": "CY_YoutuiS" },
+	{ "name": "CY_ZuotuiX", "bone": "root", "attachment": "CY_ZuotuiX" },
+	{ "name": "CY_ZuotuiS", "bone": "root", "attachment": "CY_ZuotuiS" },
+	{ "name": "CY_Bu", "bone": "root", "attachment": "CY_Bu" },
+	{ "name": "CY_ZuoshouS", "bone": "root", "attachment": "CY_ZuoshouS" },
+	{ "name": "CY_YoushouS", "bone": "root", "attachment": "CY_YoushouS" },
+	{ "name": "CY_Shenzi", "bone": "root", "attachment": "CY_Shenzi" },
+	{ "name": "CY_bao", "bone": "root", "attachment": "CY_bao" },
+	{ "name": "CY_YoushouX", "bone": "root", "attachment": "CY_YoushouX" },
+	{ "name": "CY_ZuoshouX", "bone": "root", "attachment": "CY_ZuoshouX" },
+	{ "name": "CY_ErY", "bone": "root", "attachment": "CY_ErY" },
+	{ "name": "CY_Tou", "bone": "root", "attachment": "CY_Tou" },
+	{ "name": "CY_ErQ", "bone": "root", "attachment": "CY_ErQ" },
+	{ "name": "CY_Wuqi", "bone": "root", "attachment": "CY_Wuqi" },
+	{ "name": "Z_YoutuiX", "bone": "root", "attachment": "Z_YoutuiX" },
+	{ "name": "Z_ZuotuiX", "bone": "root", "attachment": "Z_ZuotuiX" },
+	{ "name": "Z_ZuotuiS", "bone": "root", "attachment": "Z_ZuotuiS" },
+	{ "name": "Z_YoutuiS", "bone": "root", "attachment": "Z_YoutuiS" },
+	{ "name": "Z_Yifu", "bone": "root", "attachment": "Z_Yifu" },
+	{ "name": "Z_YoushouS", "bone": "root", "attachment": "Z_YoushouS" },
+	{ "name": "Z_ZuoshouS", "bone": "root", "attachment": "Z_ZuoshouS" },
+	{ "name": "Z_ZuoshouX", "bone": "root", "attachment": "Z_ZuoshouX" },
+	{ "name": "Z_YoushouX", "bone": "root", "attachment": "Z_YoushouX" },
+	{ "name": "Z_Wuqi", "bone": "root", "attachment": "Z_Wuqi" },
+	{ "name": "Shenzi", "bone": "root", "attachment": "Shenzi" },
+	{ "name": "Z_bao", "bone": "root", "attachment": "Z_bao" },
+	{ "name": "Z_maoziH", "bone": "root", "attachment": "Z_maoziH" },
+	{ "name": "Z_ErY", "bone": "root", "attachment": "Z_ErY" },
+	{ "name": "Z_ErZ", "bone": "root", "attachment": "Z_ErZ" }
+],
+"skins": {
+	"default": {
+		"CZ_ZuotuiX": {
+			"CZ_ZuotuiX": { "x": 139, "y": -326.5, "width": 44, "height": 67 }
+		},
+		"CZ_ZuotuiS": {
+			"CZ_ZuotuiS": { "x": 148.5, "y": -281, "width": 55, "height": 72 }
+		},
+		"CZ_YoutuiX": {
+			"CZ_YoutuiX": { "x": 216.5, "y": -326, "width": 45, "height": 70 }
+		},
+		"CZ_YoutuiS": {
+			"CZ_YoutuiS": { "x": 194.5, "y": -278, "width": 45, "height": 78 }
+		},
+		"CZ_BU": {
+			"CZ_BU": { "x": 177.5, "y": -293, "width": 63, "height": 96 }
+		},
+		"CZ_YouShouS": {
+			"CZ_YouShouS": { "x": 210, "y": -207.5, "width": 60, "height": 71 }
+		},
+		"CZ_ZuoShouS": {
+			"CZ_ZuoShouS": { "x": 136, "y": -208, "width": 56, "height": 54 }
+		},
+		"CZ_shenzi": {
+			"CZ_shenzi": { "x": 170, "y": -214.5, "width": 88, "height": 103 }
+		},
+		"CZ_Bao": {
+			"CZ_Bao": { "x": 143.5, "y": -244.5, "width": 27, "height": 35 }
+		},
+		"CZ_ZuoshouX": {
+			"CZ_ZuoshouX": { "x": 92.4999999999999, "y": -222, "width": 71, "height": 46 }
+		},
+		"CZ_Wuqi": {
+			"CZ_Wuqi": { "x": 66.4999999999999, "y": -180, "width": 69, "height": 138 }
+		},
+		"CZ_YoushouX": {
+			"CZ_YoushouX": { "x": 216, "y": -255.5, "width": 58, "height": 67 }
+		},
+		"CZ_Erh": {
+			"CZ_Erh": { "x": 103, "y": -142, "width": 32, "height": 58 }
+		},
+		"CZ_Tou": {
+			"CZ_Tou": { "x": 168.5, "y": -126, "width": 137, "height": 180 }
+		},
+		"CZ_Erq": {
+			"CZ_Erq": { "x": 209.5, "y": -144, "width": 55, "height": 64 }
+		},
+		"CY_YoutuiX": {
+			"CY_YoutuiX": { "x": 785, "y": -326.5, "width": 44, "height": 67 }
+		},
+		"CY_YoutuiS": {
+			"CY_YoutuiS": { "x": 775, "y": -281, "width": 56, "height": 72 }
+		},
+		"CY_ZuotuiX": {
+			"CY_ZuotuiX": { "x": 707.5, "y": -326, "width": 45, "height": 70 }
+		},
+		"CY_ZuotuiS": {
+			"CY_ZuotuiS": { "x": 729.5, "y": -278, "width": 45, "height": 78 }
+		},
+		"CY_Bu": {
+			"CY_Bu": { "x": 746.5, "y": -293, "width": 63, "height": 96 }
+		},
+		"CY_ZuoshouS": {
+			"CY_ZuoshouS": { "x": 710.5, "y": -210.5, "width": 53, "height": 65 }
+		},
+		"CY_YoushouS": {
+			"CY_YoushouS": { "x": 788, "y": -207, "width": 56, "height": 56 }
+		},
+		"CY_Shenzi": {
+			"CY_Shenzi": { "x": 754, "y": -214.5, "width": 88, "height": 103 }
+		},
+		"CY_bao": {
+			"CY_bao": { "x": 723.5, "y": -256.5, "width": 41, "height": 47 }
+		},
+		"CY_YoushouX": {
+			"CY_YoushouX": { "x": 808, "y": -245, "width": 34, "height": 60 }
+		},
+		"CY_ZuoshouX": {
+			"CY_ZuoshouX": { "x": 715.5, "y": -241.5, "width": 65, "height": 37 }
+		},
+		"CY_ErY": {
+			"CY_ErY": { "x": 811, "y": -132, "width": 32, "height": 58 }
+		},
+		"CY_Tou": {
+			"CY_Tou": { "x": 747.5, "y": -116, "width": 133, "height": 180 }
+		},
+		"CY_ErQ": {
+			"CY_ErQ": { "x": 704.5, "y": -134, "width": 55, "height": 64 }
+		},
+		"CY_Wuqi": {
+			"CY_Wuqi": { "x": 772.5, "y": -226, "width": 133, "height": 92 }
+		},
+		"Z_YoutuiX": {
+			"Z_YoutuiX": { "x": 494.5, "y": -321.5, "width": 35, "height": 83 }
+		},
+		"Z_ZuotuiX": {
+			"Z_ZuotuiX": { "x": 410.5, "y": -321.5, "width": 35, "height": 83 }
+		},
+		"Z_ZuotuiS": {
+			"Z_ZuotuiS": { "x": 422, "y": -268, "width": 52, "height": 68 }
+		},
+		"Z_YoutuiS": {
+			"Z_YoutuiS": { "x": 483, "y": -268, "width": 52, "height": 68 }
+		},
+		"Z_Yifu": {
+			"Z_Yifu": { "x": 450.5, "y": -293, "width": 75, "height": 92 }
+		},
+		"Z_YoushouS": {
+			"Z_YoushouS": { "x": 502.5, "y": -209.5, "width": 55, "height": 51 }
+		},
+		"Z_ZuoshouS": {
+			"Z_ZuoshouS": { "x": 402, "y": -209.5, "width": 54, "height": 51 }
+		},
+		"Z_ZuoshouX": {
+			"Z_ZuoshouX": { "x": 367, "y": -217, "width": 56, "height": 58 }
+		},
+		"Z_YoushouX": {
+			"Z_YoushouX": { "x": 536, "y": -254.5, "width": 48, "height": 75 }
+		},
+		"Z_Wuqi": {
+			"Z_Wuqi": { "x": 325, "y": -197.5, "width": 94, "height": 131 }
+		},
+		"Shenzi": {
+			"Shenzi": { "x": 452.5, "y": -219, "width": 111, "height": 100 }
+		},
+		"Z_bao": {
+			"Z_bao": { "x": 408, "y": -254, "width": 30, "height": 40 }
+		},
+		"Z_maoziH": {
+			"Z_maoziH": { "x": 452.5, "y": -113.5, "width": 157, "height": 189 }
+		},
+		"Z_ErY": {
+			"Z_ErY": { "x": 524.5, "y": -126.5, "width": 53, "height": 63 }
+		},
+		"Z_ErZ": {
+			"Z_ErZ": { "x": 380.5, "y": -126.5, "width": 53, "height": 63 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
