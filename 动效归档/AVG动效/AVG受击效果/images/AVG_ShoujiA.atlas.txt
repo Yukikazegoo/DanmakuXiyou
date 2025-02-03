@@ -1,0 +1,83 @@
+
+AVG_ShoujiA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bshouji_Guang
+  rotate: false
+  xy: 0, 16
+  size: 247, 215
+  orig: 255, 215
+  offset: 0, 0
+  index: -1
+Bshouji_Shizi
+  rotate: false
+  xy: 0, 551
+  size: 379, 379
+  orig: 381, 381
+  offset: 1, 1
+  index: -1
+Bshouji_XianA
+  rotate: false
+  xy: 287, 9
+  size: 96, 165
+  orig: 96, 165
+  offset: 0, 0
+  index: -1
+Bshouji_XianB
+  rotate: 180
+  xy: 187, 8
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+Bshouji_XianD
+  rotate: false
+  xy: 0, 31
+  size: 142, 125
+  orig: 142, 125
+  offset: 0, 0
+  index: -1
+Bshouji_XianE
+  rotate: false
+  xy: 177, 30
+  size: 185, 135
+  orig: 185, 135
+  offset: 0, 0
+  index: -1
+Bshouji_XianF
+  rotate: false
+  xy: 0, 10
+  size: 176, 71
+  orig: 176, 71
+  offset: 0, 0
+  index: -1
+Bshouji_XianG
+  rotate: false
+  xy: 0, 1
+  size: 184, 43
+  orig: 184, 43
+  offset: 0, 0
+  index: -1
+Bshouji_XianH
+  rotate: false
+  xy: 96, 184
+  size: 186, 25
+  orig: 186, 25
+  offset: 0, 0
+  index: -1
+Bshouji_XianI
+  rotate: false
+  xy: 169, 167
+  size: 225, 23
+  orig: 225, 23
+  offset: 0, 0
+  index: -1
+Bshouji_Zhu
+  rotate: false
+  xy: 0, 233
+  size: 399, 316
+  orig: 401, 318
+  offset: 1, 1
+  index: -1

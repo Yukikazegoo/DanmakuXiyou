@@ -1,0 +1,76 @@
+
+AVG_ShoujiB.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ashouji_Huan
+  rotate: false
+  xy: 0, 479
+  size: 188, 203
+  orig: 190, 205
+  offset: 1, 1
+  index: -1
+Ashouji_KuaiA
+  rotate: 180
+  xy: 336, 433
+  size: 77, 124
+  orig: 79, 124
+  offset: 0, 0
+  index: -1
+Ashouji_KuaiB
+  rotate: true
+  xy: 0, 416
+  size: 62, 101
+  orig: 62, 101
+  offset: 0, 0
+  index: -1
+Ashouji_KuaiC
+  rotate: 180
+  xy: 464, 453
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+Ashouji_KuaiD
+  rotate: 270
+  xy: 577, 488
+  size: 194, 61
+  orig: 194, 71
+  offset: 0, 4
+  index: -1
+Ashouji_KuaiE
+  rotate: 180
+  xy: 396, 532
+  size: 181, 150
+  orig: 181, 150
+  offset: 0, 0
+  index: -1
+Ashouji_KuaiF
+  rotate: true
+  xy: 588, 434
+  size: 92, 93
+  orig: 106, 106
+  offset: 8, 8
+  index: -1
+Ashouji_KuaiG
+  rotate: false
+  xy: 336, 471
+  size: 129, 211
+  orig: 136, 211
+  offset: 6, 0
+  index: -1
+Ashouji_Xian
+  rotate: true
+  xy: 190, 465
+  size: 217, 144
+  orig: 219, 146
+  offset: 1, 1
+  index: -1
+Ashouji_Yuan
+  rotate: false
+  xy: 102, 433
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
